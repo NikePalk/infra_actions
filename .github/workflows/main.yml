@@ -19,7 +19,7 @@ jobs:
       with:
         # Выбор версии Python
         python-version: 3.7
-ц
+
     - name: Install dependencies
       run: | 
         # обновление pip
